@@ -1,2 +1,2 @@
 # DeepRL-HuggingFace
-Colab Notebooks from course DeepRL from HuggingFace
+Colab Notebooks from course DeepRL from Hugging Face
